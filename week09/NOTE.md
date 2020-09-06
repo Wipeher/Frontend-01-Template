@@ -21,5 +21,5 @@
 * HSL：Hue-颜色（0-360），Saturation-饱和度（0-100%），Lightness-亮度（0-100%，黑-白）
 * HSV：Hue-颜色（0-360），Saturation-饱和度（0-100%），Value-明度（0-100%，黑-白）
 
-![avatar](https://github.com/wpngpeng/Frontend-01-Template/blob/master/week09/%20CSS%E5%8A%A8%E7%94%BB.png)
+![avatar](https://github.com/Wipeher/Frontend-01-Template/blob/master/week09/%20CSS%E5%8A%A8%E7%94%BB.png)
 
