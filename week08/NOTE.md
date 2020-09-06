@@ -38,10 +38,10 @@ ID选择器总共出现了1次， B = 1;
 上面算出的A 、 B、C、D 可以简记作：(0, 1, 3, 1)。
 
 
-![选择器脑图](https://github.com/wpngpeng/Frontend-01-Template/blob/master/week08/%E9%80%89%E6%8B%A9%E5%99%A8%E8%AF%AD%E6%B3%95.png)
+![选择器脑图](https://github.com/Wipeher/Frontend-01-Template/blob/master/week08/%E9%80%89%E6%8B%A9%E5%99%A8%E8%AF%AD%E6%B3%95.png)
 
 
-![伪类脑图](https://github.com/wpngpeng/Frontend-01-Template/blob/master/week08/%E4%BC%AA%E7%B1%BB.png)
+![伪类脑图](https://github.com/Wipeher/Frontend-01-Template/blob/master/week08/%E4%BC%AA%E7%B1%BB.png)
 
 
-![伪元素脑图](https://github.com/wpngpeng/Frontend-01-Template/blob/master/week08/%E4%BC%AA%E5%85%83%E7%B4%A0.png)
+![伪元素脑图](https://github.com/Wipeher/Frontend-01-Template/blob/master/week08/%E4%BC%AA%E5%85%83%E7%B4%A0.png)

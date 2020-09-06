@@ -30,4 +30,4 @@
 
  crossBase :交叉轴开始的位置 0 / style.width
 
- - ![flex 排版解释图](https://github.com/wpngpeng/Frontend-01-Template/blob/master/week07/flex.png)
+ - ![flex 排版解释图](https://github.com/Wipeher/Frontend-01-Template/blob/master/week07/flex.png)
