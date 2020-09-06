@@ -1,0 +1,16 @@
+.carousel {
+  width: 800px;
+  height: 600px;
+  white-space: nowrap;
+  overflow: hidden;
+  margin: auto;
+  border-radius: 8px;
+
+}
+
+.carousel>img {
+  display: inline-block;
+  width: 800px;
+  height: 600px;
+  transition: transform ease 1s;
+}
